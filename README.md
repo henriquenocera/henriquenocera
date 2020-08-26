@@ -1,8 +1,8 @@
-### Hello, my name is Henrique Nocera 👋
+# Hello, my name is Henrique Nocera 👋
 
-## I'm Front-end Web Developer!
+## I have a bachelor's degree in Business and Marketing </br> but i'm currently working to become a Front-end Web Developer!
 
-- I'm currently learning:
+### I'm currently learning:
 - Vue.js
 - React Native
 - Docker
