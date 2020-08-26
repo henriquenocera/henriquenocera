@@ -6,7 +6,6 @@
 - Vue.js
 - React.js
 - Docker
-- 
 
 
 
