@@ -41,7 +41,7 @@
 [<img align="left" alt="axioscorp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white][facebook]
-[<img align="left" alt="axioscorp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="axioscorp | Instagram" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 
