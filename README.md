@@ -39,6 +39,8 @@
 [<img align="left" alt="axioscorp.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="axioscorp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="axioscorp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white][facebook]
 [<img align="left" alt="axioscorp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
