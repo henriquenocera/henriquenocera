@@ -2,7 +2,7 @@
 
 ### I have a bachelor's degree in Business and Marketing, </br> but i'm currently working to become a Full Stack Web Developer!
 
-#### 👉 Check it out: www.axioscorp.com.br
+#### Check it out: www.axioscorp.com.br
 
 <br />
 
