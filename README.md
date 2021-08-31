@@ -1,6 +1,6 @@
 # Hello, my name is Henrique Nocera 👋
 
-### I have a bachelor's degree in Business and Marketing, </br> but i'm currently working to become a Full Stack Web Developer!
+### I'm from Brazil and i have a bachelor's degree in Business and Marketing, </br> but i'm currently working as a Front-end Developer and UI/UX designer.
 
 #### Check it out: www.axioscorp.com.br
 
